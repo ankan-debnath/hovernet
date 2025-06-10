@@ -3,7 +3,6 @@
 
 # directories
 cache/
-dataset/
 exp_output/
 
 # checkpoint paths
