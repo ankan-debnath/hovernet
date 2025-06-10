@@ -3,10 +3,11 @@
 
 # directories
 cache/
-# dataset/
+dataset/
 exp_output/
 
-# # checkpoint paths
-# *.npz
-# *.png
-# *.log
+# checkpoint paths
+*.npz
+*.png
+*.log
+*.tar
